@@ -4,6 +4,7 @@
     "dev": "next",
     "lint": "next lint",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "typecheck": "tsc"
   },
